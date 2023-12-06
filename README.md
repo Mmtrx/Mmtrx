@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mmtrx
-- 👀 I’m interested in script modding for Farming Simulator 19, 22. You can find the current FS19 version of my [SeeBales](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=142151&title=fs2019) mod on Giants ModHub. And the beta FS22 version of [BetterContracts](https://github.com/Mmtrx/FS22_BetterContracts) on github.
-- 🌱 I’m currently learning how to write / test mods for mutiplayer
+- 👀 I’m interested in script modding for Farming Simulator 22. I started modding with FS19, my first mod was [SeeBales](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=142151&title=fs2019) on Giants ModHub. My main contribution is [BetterContracts](https://github.com/Mmtrx/FS22_BetterContracts). Beta versions are published first here on github, and after a few releases I send an update to ModHub.
+- 🌱 I’m currently learning how to develop radio remote controls for RC vehicles, based on ESP32 boards
 - 💞️ I’m looking to collaborate on future Farming Simulator mods / to help other modders with lua scripting
 - 📫 You can reach me via comments / issues opened within my public repositories, and in the German [Farming Simulator Forum](https://forum.giants-software.com/index.php)
 
